@@ -1,0 +1,7 @@
+basic.py
+__pycache__/
+*.pyc
+.vscode/
+.env
+*.log
+square.py
