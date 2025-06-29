@@ -5,3 +5,9 @@ __pycache__/
 .env
 *.log
 square.py
+dashed_line.py
+shapes.py
+random_walk.py
+random_walk_random_color.py
+random_walk_random_color_copy.py
+spirograph.py
